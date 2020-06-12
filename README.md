@@ -1,2 +1,2 @@
-# V-EW
+# VIEW
 SQL VIİEW KULLANIMI 
