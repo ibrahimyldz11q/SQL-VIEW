@@ -1,0 +1,2 @@
+# V-EW
+SQL VIİEW KULLANIMI 
